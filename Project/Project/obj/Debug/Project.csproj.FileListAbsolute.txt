@@ -1,0 +1,16 @@
+E:\Google\Acc_02_st119634@alumni.ait.asia\C#\Project\Project\Project\bin\Debug\Project.dll
+E:\Google\Acc_02_st119634@alumni.ait.asia\C#\Project\Project\Project\bin\Debug\Project.pdb
+E:\Google\Acc_02_st119634@alumni.ait.asia\C#\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\Google\Acc_02_st119634@alumni.ait.asia\C#\Project\Project\Project\obj\Debug\Project.dll
+E:\Google\Acc_02_st119634@alumni.ait.asia\C#\Project\Project\Project\obj\Debug\Project.pdb
+E:\Google\Acc_02_st119634@alumni.ait.asia\C#\Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\REI Support\Downloads\C#\Project\Project\Project\bin\Debug\Project.dll
+C:\Users\REI Support\Downloads\C#\Project\Project\Project\bin\Debug\Project.pdb
+C:\Users\REI Support\Downloads\C#\Project\Project\Project\obj\Debug\Project.dll
+C:\Users\REI Support\Downloads\C#\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\REI Support\Downloads\C#\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\C#\Project\Project\Project\bin\Debug\Project.dll
+F:\C#\Project\Project\Project\bin\Debug\Project.pdb
+F:\C#\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\C#\Project\Project\Project\obj\Debug\Project.dll
+F:\C#\Project\Project\Project\obj\Debug\Project.pdb
